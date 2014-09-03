@@ -1,0 +1,35 @@
+body {
+	height: 100%;
+	width: 100%;
+	background-color: #b0c4de;
+	margin: 0;
+
+}
+
+#main {
+	padding: 15px;
+}
+
+.main-header {
+	
+}
+
+.background {
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: -10000;
+}
+
+.logo {
+  height: 42px;
+  width: 120px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../img/logo.png');
+}
